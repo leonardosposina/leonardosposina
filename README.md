@@ -11,21 +11,6 @@ I'm Leonardo, a *Software Developer* in training, self-taught and passionate abo
 
 # 
 
-### 🚀 Rocketseat GoStack 13
-
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=material-palenight&repo=gostack13-go-barber)](https://github.com/leonardosposina/gostack13-go-barber)
-
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv01-d01)](https://github.com/leonardosposina/gostack13-lv01-d01)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv01-d02)](https://github.com/leonardosposina/gostack13-lv01-d02)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv01-d03)](https://github.com/leonardosposina/gostack13-lv01-d03)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv02-d01)](https://github.com/leonardosposina/gostack13-lv02-d01)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv02-d02)](https://github.com/leonardosposina/gostack13-lv02-d02)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv03-d01)](https://github.com/leonardosposina/gostack13-lv03-d01)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv03-d02)](https://github.com/leonardosposina/gostack13-lv03-d02)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv04-d01)](https://github.com/leonardosposina/gostack13-lv04-d01)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv05-d01)](https://github.com/leonardosposina/gostack13-lv05-d01)
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv05-d02)](https://github.com/leonardosposina/gostack13-lv05-d02)
-
 ### 📈 MetaTrader 5 projects
 
 [![Timeframes Top/Bottom Lines](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=mt5-timeframes-top-bottom-lines)](https://github.com/leonardosposina/mt5-timeframes-top-bottom-lines)
@@ -42,6 +27,21 @@ I'm Leonardo, a *Software Developer* in training, self-taught and passionate abo
 ### 🕹 Game projects
 
 [![Atari Pong](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=atari-pong)](https://github.com/leonardosposina/atari-pong)
+
+### 🚀 Rocketseat GoStack 13
+
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=material-palenight&repo=gostack13-go-barber)](https://github.com/leonardosposina/gostack13-go-barber)
+
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv01-d01)](https://github.com/leonardosposina/gostack13-lv01-d01)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv01-d02)](https://github.com/leonardosposina/gostack13-lv01-d02)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv01-d03)](https://github.com/leonardosposina/gostack13-lv01-d03)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv02-d01)](https://github.com/leonardosposina/gostack13-lv02-d01)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv02-d02)](https://github.com/leonardosposina/gostack13-lv02-d02)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv03-d01)](https://github.com/leonardosposina/gostack13-lv03-d01)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv03-d02)](https://github.com/leonardosposina/gostack13-lv03-d02)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv04-d01)](https://github.com/leonardosposina/gostack13-lv04-d01)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv05-d01)](https://github.com/leonardosposina/gostack13-lv05-d01)
+[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=gostack13-lv05-d02)](https://github.com/leonardosposina/gostack13-lv05-d02)
 
 ### 👨‍💻️ Bootcamps
 
