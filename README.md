@@ -53,15 +53,6 @@ I'm Leonardo, a *Software Developer* in training, self-taught and passionate abo
 [![GitHub Follow Me (or not)](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=github-follow-me-or-not)](https://github.com/leonardosposina/github-follow-me-or-not)
 [![Pixel Art Fire](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=pixel-art-fire)](https://github.com/leonardosposina/pixel-art-fire)
 
----
-
-### 📑 Certificates
-
-[![OCA Java Certified Programmer](https://img.shields.io/badge/-Java_Certified_Programmer-007396?style=flat&logo=java&logoColor=white)](https://www.youracclaim.com/badges/7e014966-8a34-4dd2-8189-71a806dd231b)
-[![Microsoft Azure Certified](https://img.shields.io/badge/-Microsoft_Azure_Certified-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://www.youracclaim.com/badges/6314f5e6-d1fa-4ee7-8126-388099024978)
-[![Harvard CS50x Certified](https://img.shields.io/badge/-Harvard_CS50x_Certified-a71431?style=flat&logo=google-scholar&logoColor=white)](https://certificates.cs50.io/3450ca4d-889b-4207-b86d-9304e1e4bc16)
-[![Cisco Cybersecurity Certified](https://img.shields.io/badge/-Cisco_Cybersecurity_Certified-1BA0D7?style=flat&logo=cisco&logoColor=white)](https://www.youracclaim.com/badges/33280f6a-8896-4f34-9f2f-5c3fbb7187b7)
-
 [LinkedIn-Profile]: https://www.linkedin.com/in/leonardosposina/
 [MQL5-Market]: https://www.mql5.com/en/users/leonardo_splinter/seller
 [Rocketseat-Profile]: https://app.rocketseat.com.br/me/leonardo-sposina
