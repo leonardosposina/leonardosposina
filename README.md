@@ -30,7 +30,8 @@ I'm Leonardo, a *Software Developer* in training, self-taught and passionate abo
 
 ### 🚀 Rocketseat GoStack 13
 
-[![GoBarber](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=material-palenight&repo=gostack-gobarber-frontend)](https://github.com/leonardosposina/gostack-gobarber-frontend)
+[![GoBarber Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=material-palenight&repo=gostack-gobarber-frontend)](https://github.com/leonardosposina/gostack-gobarber-frontend)
+[![GoBarber Backend](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=material-palenight&repo=gostack-gobarber-backend)](https://github.com/leonardosposina/gostack-gobarber-backend)
 
 ### 👨‍💻️ Bootcamps
 
