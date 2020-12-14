@@ -37,7 +37,7 @@ I'm Leonardo, a *Software Developer* in training, self-taught and passionate abo
 
 [![OmniStack 11 - Be the Hero](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=omnistack11-be-the-hero)](https://github.com/leonardosposina/omnistack11-be-the-hero)
 [![NLW#2 - Proffy](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=next-level-week-2-proffy)](https://github.com/leonardosposina/next-level-week-2-proffy)
-[![DIO - Cryptocurrency API](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=dio-cryptocurrency-api)](https://github.com/leonardosposina/dio-cryptocurrency-api)
+[![DIO - Cryptocurrency API Integration](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=dio-cryptocurrency-api-integration)](https://github.com/leonardosposina/dio-cryptocurrency-api-integration)
 
 ### 💡 PoC projects
 
