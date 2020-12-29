@@ -1,12 +1,7 @@
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][LinkedIn-Profile]
-[![MQL5 Market Badge](https://img.shields.io/badge/-MQL5_Market-4a77b4?style=flat&logo=ubuntu&logoColor=white)][MQL5-Market]
-[![Rocketseat](https://img.shields.io/badge/-🚀_Rocketseat-7159C1?style=flat)][Rocketseat-Profile]
-
-# 
-
-I'm Leonardo, a *Software Developer* in training, self-taught and passionate about programming. 👨‍💻
+Hi, I'm Leo, a *Software Developer* in training, self-taught and passionate about programming. 👨‍💻
 
 ![Leonardo's GitHub stats][GitHub-Stats]
+
 ![Leonardo's Top Langs][GitHub-TopLang]
 
 # 
@@ -26,27 +21,7 @@ I'm Leonardo, a *Software Developer* in training, self-taught and passionate abo
 
 ### 🕹 Game projects
 
-[![Atari Pong](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=atari-pong)](https://github.com/leonardosposina/atari-pong)
+[![Atari Pong](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=react&repo=atari-pong)](https://github.com/leonardosposina/atari-pong)
 
-### 🚀 Rocketseat GoStack 13
-
-[![GoBarber Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=material-palenight&repo=gostack-gobarber-frontend)](https://github.com/leonardosposina/gostack-gobarber-frontend)
-[![GoBarber Backend](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=material-palenight&repo=gostack-gobarber-backend)](https://github.com/leonardosposina/gostack-gobarber-backend)
-
-### 👨‍💻️ Bootcamps
-
-[![OmniStack 11 - Be the Hero](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=omnistack11-be-the-hero)](https://github.com/leonardosposina/omnistack11-be-the-hero)
-[![NLW#2 - Proffy](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=next-level-week-2-proffy)](https://github.com/leonardosposina/next-level-week-2-proffy)
-[![DIO - Cryptocurrency API Integration](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=dio-cryptocurrency-api-integration)](https://github.com/leonardosposina/dio-cryptocurrency-api-integration)
-
-### 💡 PoC projects
-
-[![GitHub Follow Me (or not)](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=github-follow-me-or-not)](https://github.com/leonardosposina/github-follow-me-or-not)
-[![Pixel Art Fire](https://github-readme-stats.vercel.app/api/pin/?username=leonardosposina&theme=prussian&repo=pixel-art-fire)](https://github.com/leonardosposina/pixel-art-fire)
-
-[LinkedIn-Profile]: https://www.linkedin.com/in/leonardosposina/
-[MQL5-Market]: https://www.mql5.com/en/users/leonardo_splinter/seller
-[Rocketseat-Profile]: https://app.rocketseat.com.br/me/leonardo-sposina
-
-[GitHub-Stats]: https://github-readme-stats.vercel.app/api?username=leonardosposina&theme=prussian&show_icons=true&count_private=true
-[GitHub-TopLang]: https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosposina&theme=prussian&langs_count=10&layout=compact
+[GitHub-Stats]: https://github-readme-stats.vercel.app/api?username=leonardosposina&theme=nord&show_icons=true&count_private=true
+[GitHub-TopLang]: https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosposina&theme=nord&langs_count=10&layout=compact
